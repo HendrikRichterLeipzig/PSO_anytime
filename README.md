@@ -14,8 +14,12 @@ simple_pso1.m --> calculates the PSO run
 
 bbob_problem_eval.m --> calculates the BBOB function handle
 
-drive_schroeder_lyap --Y calculates trajectory of the Schröder map and the Lyapunov exponent
+drive_schroeder_lyap.m --> calculates trajectory of the Schröder map and the Lyapunov exponent
 
-drive_logistic_lyap --Y calculates trajectory of the Logistic map and the Lyapunov exponent
+drive_logistic_lyap.m --> calculates trajectory of the Logistic map and the Lyapunov exponent
 
-drive_asym_tent_lyap --Y calculates trajectory of the asymmetric tent map and the Lyapunov exponent
+drive_asym_tent_lyap.m --> calculates trajectory of the asymmetric tent map and the Lyapunov exponent
+
+mutual_information.m --> calculates the mutual information
+
+permutation_entropy.m --> calculates permutation entropy
